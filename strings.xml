@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">findUrselfKnown</string>
+
+    <string name="facebook_app_id">595513571339897</string>
+    <string name="fb_login_protocol_scheme">fb595513571339897</string>
+
+</resources>
